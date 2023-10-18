@@ -1,0 +1,226 @@
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.DangNhap.FormDangNhap.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\QuanLyKhachSanNhom9.exe.config
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\QuanLyKhachSanNhom9.exe
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\QuanLyKhachSanNhom9.pdb
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Guna.UI2.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\RestSharp.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Buffers.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Memory.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\RestSharp.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Buffers.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Memory.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.exe
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.pdb
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.RoomNV.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.DangNhap.QuenMatKhau.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.QuanLyNhanVien.MainNhanVien.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.FormXacNhanDangKyKhacHang.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.RoomTrang2.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.ThongBaoTInhTien_ThemDichVu.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.QuanLyNhanVien.ServiceNV.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.Customer.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.PaymentNVcs.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\EnvDTE.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.HoaDonNhanVien.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.Admin.DangKy1.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.DangNhap.DangKy.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\EntityFramework.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\EntityFramework.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.KeToan.Tongdoanhthu.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.BuonPhongMain.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\Nhom9_DoAnQuanLiKhachSan.giaodienchinh.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\Nhom9_DoAnQuanLiKhachSan.Uc_DanhSachDichVu.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.Admin.Uc_QuanLiPhongBan.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\Nhom9_DoAnQuanLiKhachSan.UC_room.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.Admin.Uc_SuaGiaPhong.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.Admin.Uc_SuaThongTinDIchVu.resources
+C:\Users\nguye\OneDrive\Máy tính\Impotant\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\Nhom9_DoAnQuanLiKhachSan.Uc_ThongtinNhanVien.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\QuanLyKhachSanNhom9.exe.config
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\QuanLyKhachSanNhom9.exe
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\QuanLyKhachSanNhom9.pdb
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\EntityFramework.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Guna.UI2.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Newtonsoft.Json.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\RestSharp.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Buffers.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Memory.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Text.Json.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.ValueTuple.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\EnvDTE.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\stdole.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\EntityFramework.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\RestSharp.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Buffers.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Memory.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Text.Json.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\System.ValueTuple.xml
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.csproj.AssemblyReference.cache
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.Admin.DangKy1.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\Nhom9_DoAnQuanLiKhachSan.giaodienchinh.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\Nhom9_DoAnQuanLiKhachSan.Uc_DanhSachDichVu.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.Admin.Uc_QuanLiPhongBan.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\Nhom9_DoAnQuanLiKhachSan.UC_room.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.Admin.Uc_SuaGiaPhong.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.Admin.Uc_SuaThongTinDIchVu.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\Nhom9_DoAnQuanLiKhachSan.Uc_ThongtinNhanVien.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.BuonPhongMain.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.DangNhap.DangKy.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.DangNhap.FormDangNhap.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.DangNhap.QuenMatKhau.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.KeToan.Tongdoanhthu.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.Contact.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.Customer.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.FormXacNhanDangKyKhacHang.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.HoaDonNhanVien.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.QuanLyNhanVien.MainNhanVien.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.PaymentNVcs.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.RoomNV.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.RoomTrang2.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.QuanLyNhanVien.ServiceNV.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.LeTan.ThongBaoTInhTien_ThemDichVu.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.Properties.Resources.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.csproj.GenerateResource.cache
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.csproj.CoreCompileInputs.cache
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.csproj.CopyComplete
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.exe
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.pdb
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.HomeHappy.resources
+C:\Users\doanm\OneDrive\Desktop\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\QuanLyKhachSanNhom9\obj\Debug\QuanLyKhachSanNhom9.DangNhap.NhanMaOTP.resources
