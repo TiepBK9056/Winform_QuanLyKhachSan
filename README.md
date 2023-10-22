@@ -4,7 +4,7 @@
 ## Cài đặt và Cấu hình
 Chức năng tính tiền chưa sát với thực tế
 các package dùng Font awaresome, guna2, Resharp
-
+folder chính QuanLyKhachSanNhom9 bỏ qua file setup 
 ## Cách sử dụng
 
 thay đổi chuỗi kết nối đến cơ sở dữ liệu trong phần class truyvan 
