@@ -7,8 +7,8 @@ các package dùng Font awaresome, guna2, Resharp
 folder chính QuanLyKhachSanNhom9 bỏ qua file setup 
 ## Cách sử dụng
 
-thay đổi chuỗi kết nối đến cơ sở dữ liệu trong phần class truyvan 
-Thay đổi strConnection
+thay đổi chuỗi kết nối đến cơ sở dữ liệu trong phần class truyvan.cs 
+Thay đổi strConnection thành chuỗi đến cơ sở dữ liệu máy hiện tại
 chạy lại cơ sở dữ liệu xoá phần models tạo lại thông qua Ado.net đặt tên QLKScontexDB
 không tạo class của bảng sudungdichvu
 ## Mã Nguồn
