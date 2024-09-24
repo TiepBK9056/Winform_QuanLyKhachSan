@@ -25,12 +25,7 @@ Chưa có
 
 ## Tác giả
 
-- Tên tác giả 1 : Nguyễn Ngọc Tiệp
-- Tên tác giả 2 : Nguyễn Quang Hùng
-- Tên tác giả 3 : Trần Ngọc Tri
-- Tên tác giả 4 : Nguyễn Võ Hoàng Triều
-- Tên tác giả 5 : Phan Xuân Tiến
-- Tên tác giả 6 : Văn Đại Vĩ
+ *Nguyễn Ngọc Tiệp*
 
 ## Liên hệ
 
